@@ -1,4 +1,4 @@
-# EnglishToFrenchTranslation
+# English To French Translation
 Development of a simple english-to-french translation model.
 
 ## Project Overview
